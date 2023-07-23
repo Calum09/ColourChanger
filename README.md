@@ -1,6 +1,8 @@
 # ColourChanger
 
-Lighten and darken any hex-based colour using this tool. Just clone the repro and open it up to use it 
+Lighten and darken any hex-based colour using this tool. Just clone the repro and open it up in your browser. 
+
+Soon to be available via github pages  
 
 ![colourChanger](https://github.com/Calum09/ColourChanger/assets/111386433/eb76e2a3-a0ee-4284-bd35-c7e6153d9b25)
 
